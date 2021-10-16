@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbaldyga
+- 👋 Hi, I’m @mbaldyga, Michał Bałdyga. Gdańsk, Poland
 - 👀 I’m interested in new technology, UI, UX, Web Developing
 - 🌱 I’m currently learning react
 - 📫 How to reach me michal.baldyga at google mail, https://twitter.com/wizard3k
